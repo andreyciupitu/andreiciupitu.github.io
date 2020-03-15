@@ -35,3 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Test
+
+Tim, the Angry Wizard  is a twin-stick roguelike that offers intense and frantic gameplay. The game uses a procedural algorithm based on Cellular Automata to ensure that you will never encounter the same level layout twice. 
+
+Fight through a different level every time you play! Control Tim as he battles monsters to free the land from evil and gain new abilities that change the way you play as you level up!
